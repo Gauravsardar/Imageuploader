@@ -1,7 +1,7 @@
 # Imageuploader
 
 **Features**
-1)Image upload with preview
+1)Image upload with preview/n
 2)Display of all uploaded images
 
 **Requirements**
